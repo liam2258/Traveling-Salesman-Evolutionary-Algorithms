@@ -5,4 +5,4 @@ The program constructs a city grid, randomly generated travel fair (between $99 
 Using the parameters listed in the tableau it runs 12 total times using 12 different populations to find the cheapest travel route.
 3 runs for each of the 4 mutations tested, insert, scramble, swap, and inversion.
 
-Each generation and it's fitness is displayed along with the fittest of that generation and the fittest route of the whole run.
+Each generation and it's fitness is displayed along with the fittest route of that generation and the fittest route of the whole run.
