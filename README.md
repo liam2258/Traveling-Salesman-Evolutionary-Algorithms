@@ -1,4 +1,4 @@
-# Traveling-Salesman-Evolutionary-Algorithms
+# TravelingSalesmanEA
 A program to solve the traveling salesman problem using evolutionary algorithms.
 
 The program constructs a city grid, randomly generated travel fare (between $99 and $2000), and a starting population of routes.
