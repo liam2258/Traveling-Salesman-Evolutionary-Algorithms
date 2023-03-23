@@ -27,8 +27,6 @@ void printSector(vector<vector<int>>& vec) {
 	}
 }
 
-
-//Function may need to be deleted
 // Prints the fitness of a genome A.K.A. the price of traveling to all cities and returning to the start
 void fitnessFinder(vector<vector<int>> vvec, vector<int> vec) {
 	int sum = 0;
